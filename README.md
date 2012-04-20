@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/bmharris/zf-addons.png?branch=master)](http://travis-ci.org/bmharris/zf-addons)
+
 zf-addons
 =========
 
